@@ -1,0 +1,23 @@
+{
+  "name": "react-role-based-authorization-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "formik": "^1.4.2",
+    "history": "^4.7.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.1.2",
+    "rxjs": "^6.3.3",
+    "yup": "^0.26.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
